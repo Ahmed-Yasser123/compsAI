@@ -1,0 +1,17 @@
+1. Basic Zillow with comparables (section only, no deep scrape, then enrich on other sites):
+      py "scraper\\imagescraper.py" "8310 Haven St Lenexa KS 66219" --site zillow --zillow-comps --cross-site-comps
+
+2. Zillow with deep comparables + cross-site enrichment (recommended full test):
+      py "scraper\\imagescraper.py" "8310 Haven St Lenexa KS 66219" --site zillow --zillow-comps --zillow-comps-deep --zillow-comps-max-images 50 --cross-site-comps --cross-site-max-images 50 --throttle 0.5
+
+3. All sites for the subject property plus Zillow comparables deep + cross-site enrichment (subject first on zillow then others, comparables enriched on realtor/redfin):
+      py "scraper\\imagescraper.py" "8310 Haven St Lenexa KS 66219" --all-sites --zillow-comps --zillow-comps-deep --zillow-comps-max-images 50 --cross-site-comps --cross-site-max-images 50 --throttle 0.5
+
+4. To specify which other sites to enrich (e.g. only realtor):
+      py "scraper\\imagescraper.py" "8310 Haven St Lenexa KS 66219" --site zillow --zillow-comps --cross-site-comps --cross-site-sites realtor
+
+5. Force fresh scrape ignoring cache:
+      py "scraper\\imagescraper.py" "8310 Haven St Lenexa KS 66219" --site zillow --zillow-comps --zillow-comps-deep --cross-site-comps --refresh
+
+6. Skip images in cross-site enrichment (faster):
+      py "scraper\\imagescraper.py" "8310 Haven St Lenexa KS 66219" --site zillow --zillow-comps --zillow-comps-deep --cross-site-comps --cross-site-max-images 0

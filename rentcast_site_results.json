@@ -1,0 +1,21 @@
+{
+  "address": "3641 E 54th St, Cleveland, OH, 44105",
+  "source": "rentcast_site",
+  "beds": 2,
+  "baths": 2.5,
+  "sq_ft": 2132,
+  "estimated_rent": 980,
+  "low_estimate": 880,
+  "high_estimate": 1090,
+  "filter_metadata": {
+    "requested_property_type": "Apartment",
+    "requested_bedrooms": 2,
+    "requested_bathrooms": 2.5,
+    "requested_sq_ft": 2132,
+    "actual_property_type": "Apartment",
+    "actual_bedrooms": "2",
+    "actual_bathrooms": "2.5",
+    "actual_sq_ft": "2132"
+  },
+  "note": "Parsed via Selenium"
+}

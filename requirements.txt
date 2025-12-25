@@ -1,0 +1,6 @@
+selenium
+requests
+pillow
+geopy
+beautifulsoup4
+lxml

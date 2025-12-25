@@ -1,0 +1,582 @@
+{
+  "zillow|17708 w 83rd ter lenexa ks 66219": {
+    "timestamp": 1763567755.0428238,
+    "result": {
+      "subject_property": {
+        "address": "17708 W 83rd Ter Lenexa KS 66219",
+        "url": "https://www.zillow.com/homedetails/17708-W-83rd-Ter-Lenexa-KS-66219/75551531_zpid/",
+        "source_site": "zillow",
+        "price": 726100.0,
+        "bedrooms": 4,
+        "bathrooms": 4.0,
+        "square_footage": 4987,
+        "lot_size": null,
+        "year_built": 2002,
+        "property_type": "More",
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": 145.6,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [
+          "https://photos.zillowstatic.com/fp/b637070391e61cde878c927f38523ce3-cc_ft_960.jpg",
+          "https://photos.zillowstatic.com/fp/1bbced138560a0c110ec80db8c27b166-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/a273e4e50095e5241a67138c0f2863cb-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/040f9d443b87c638b6e70d0cf2d2b0bd-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/f7fa765e8076e2079cf73b173ea54e22-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/248589e59496628125c6d6c6ee1c3046-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/6653845a5659bcd36fbaff1e058fa7b5-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/c6ef755ea3e23b8f16de180428510b88-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/fa77a6bb6bfaa791ca6c6684ea5f8148-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/b03b08df4ed018039c1eb224d828b13c-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/8b8d49144c904481bfa7899798467919-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/5aecaecbe107f12b4cf966211164e35d-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/448c8e669331aa74d57695b4406cf26d-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/04df4ea9b0018ada2cb596bf1e998ca8-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/0ce46c21a03b0a93fb95d9f614124239-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/e4884f378c78a075636f029c7dc12c96-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/51171851a30d41bd6292d0bc25023e08-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/ee38d26ffce65bdb376bd89a4a4ff6bb-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/1f67106e1b4dd7632caf662514222847-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/5bb2f676b55fbbe956f9277ceb8f9a23-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/1261b112cb6842934c7dd477998eefce-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/7398bc50b51e23d8b3bfda5607b4ad22-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/7450a230d18cd6b23c72be5870b7d2fb-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/9958c94006af8ff9fafb601436252444-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/49984a082dd942be23dd0a398eb4652b-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/1c99f9778a4f63dca6d7c36b6ba5755c-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/3ab392f37c7a523965ab79ff855ac5c7-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/3016b865c86be2e975c417db9c1e831d-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/30928c01f789c3c8e6dea01aa6b99e1c-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/e295291ca0b98ece6eb0736f939b2b07-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/99c70410a74fad140822bcebb0e74137-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/285820fc3de23e111dfe52f7917d91f7-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/f269d6f8d7475183b3d27178f638813a-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/abdd356d326b7d2cf0053c32bee87231-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/8b6a3249fcbbd549be28c5881b5593a5-p_e.jpg",
+          "https://photos.zillowstatic.com/fp/750066c9c1105e729ba29ebd15d7a477-zillow_web_95_35.jpg",
+          "https://photos.zillowstatic.com/fp/5d49cc3ed5e1ee3389094d481415be2a-zillow_web_95_35.jpg"
+        ],
+        "saved_images": [
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_001.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_002.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_003.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_004.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_005.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_006.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_007.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_008.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_009.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_010.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_011.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_012.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_013.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_014.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_015.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_016.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_017.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_018.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_019.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_020.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_021.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_022.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_023.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_024.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_025.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_026.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_027.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_028.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_029.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_030.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_031.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_032.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_033.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_034.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_035.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_036.jpg",
+          "C:\\Users\\ahmed\\OneDrive\\Desktop\\work\\Streamlinerz\\autocalc2\\images\\17708_W_83rd_Ter_Lenexa_KS_66219_zillow_037.jpg"
+        ],
+        "scraped_at": "2025-11-19 17:56:03",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-19 17:56:21"
+      }
+    }
+  },
+  "realtor|17708 w 83rd ter lenexa ks 66219": {
+    "timestamp": 1763567755.0428238,
+    "result": {
+      "subject_property": {
+        "address": "17708 W 83rd Ter Lenexa KS 66219",
+        "url": "https://www.realtor.com/realestateandhomes-search/17708+W+83rd+Ter+Lenexa+KS+66219",
+        "source_site": "realtor",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-19 17:56:25",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-19 17:56:25"
+      }
+    }
+  },
+  "redfin|17708 w 83rd ter lenexa ks 66219": {
+    "timestamp": 1763567755.0428238,
+    "result": {
+      "subject_property": {
+        "address": "17708 W 83rd Ter Lenexa KS 66219",
+        "url": "https://www.redfin.com/stingray/do/location-autocomplete?location=17708+W+83rd+Ter+Lenexa+KS+66219",
+        "source_site": "redfin",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-19 17:56:28",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-19 17:56:28"
+      }
+    }
+  },
+  "realtor|652 howard st, mount vernon, oh 43050": {
+    "timestamp": 1763577287.392962,
+    "result": {
+      "subject_property": {
+        "address": "652 Howard St, Mount Vernon, OH 43050",
+        "url": "https://www.realtor.com/realestateandhomes-search/652+Howard+St%2C+Mount+Vernon%2C+OH+43050",
+        "source_site": "realtor",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-20 02:34:51",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 02:34:51"
+      }
+    }
+  },
+  "zillow|652 howard st, mount vernon, oh 43050": {
+    "timestamp": 1763577305.1024032,
+    "result": {
+      "subject_property": {
+        "address": "652 Howard St, Mount Vernon, OH 43050",
+        "url": "https://www.zillow.com/homedetails/652-Howard-St-Mount-Vernon-OH-43050/225335542_zpid/",
+        "source_site": "zillow",
+        "price": 144800.0,
+        "bedrooms": 3,
+        "bathrooms": 1.0,
+        "square_footage": 1320,
+        "lot_size": null,
+        "year_built": 1920,
+        "property_type": "More",
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": 109.7,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [
+          "https://photos.zillowstatic.com/fp/d11802afd4cbb81491096d37a0d9cdb1-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/3b48928295bf5d991f74090c03a6c50f-zillow_web_48_23.jpg",
+          "https://photos.zillowstatic.com/fp/1e94ee0ada02f76e8dce13e6eb8fc6f2-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/56b862064296c021566b4c622fdcd453-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/5de5b2abf2e103b9f20366cd8dd32d95-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/4b25b77a1d878b592df71114817389a4-p_c.jpg",
+          "https://www.zillowstatic.com/bedrock/app/uploads/sites/55/2025/08/HomeDollar.webp",
+          "https://www.zillowstatic.com/bedrock/app/uploads/sites/55/2025/08/Zillow-Home-Loans_Horizontal_NMLS_Large_Blue_RGB-300x33-1.webp"
+        ],
+        "saved_images": [
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_001.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_002.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_003.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_004.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_005.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_006.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_007.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\652_Howard_St_Mount_Vernon_OH_43050_zillow_008.jpg"
+        ],
+        "scraped_at": "2025-11-20 02:35:15",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 02:35:24"
+      }
+    }
+  },
+  "redfin|652 howard st, mount vernon, oh 43050": {
+    "timestamp": 1763577337.3468852,
+    "result": {
+      "subject_property": {
+        "address": "652 Howard St, Mount Vernon, OH 43050",
+        "url": "https://www.redfin.com/stingray/do/location-autocomplete?location=652+Howard+St%2C+Mount+Vernon%2C+OH+43050",
+        "source_site": "redfin",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-20 02:35:39",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 02:35:39"
+      }
+    }
+  },
+  "zillow|915 n ransom st, gastonia, nc 28052": {
+    "timestamp": 1763577793.4420834,
+    "result": {
+      "subject_property": {
+        "address": "915 N Ransom St, Gastonia, NC 28052",
+        "url": "https://www.zillow.com/homedetails/915-N-Ransom-St-Gastonia-NC-28052/5846664_zpid/",
+        "source_site": "zillow",
+        "price": 152300.0,
+        "bedrooms": 2,
+        "bathrooms": 1.0,
+        "square_footage": 832,
+        "lot_size": null,
+        "year_built": 1966,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": 183.05,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [
+          "https://photos.zillowstatic.com/fp/0ffc2c32201ffb2ceb51b4ad94235802-cc_ft_960.jpg",
+          "https://photos.zillowstatic.com/fp/cc087a52d2c34a06162b2bc64dcca99f-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/92ca765874149549d5807840648bdeff-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/b130cd7b7fc6030ccdd6178fabfbe2c3-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/b897fc651f2b7bd767f782ea1fe3f0c3-cc_ft_576.jpg",
+          "https://photos.zillowstatic.com/fp/3b99a889b25ab7c6fec5962d646497ea-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/58ff50b038a3c30b717218872967ec00-zillow_web_48_23.jpg",
+          "https://photos.zillowstatic.com/fp/e1809d9b7e9de332fe2740b29ead922a-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/63e9285376be6b8308247d27591b4e9b-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/aac3a9cc2de4d65b614f99b00bc091b5-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/51e3cc962c5dd8827f2b02dafadde6c9-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/7ae969ddf6827e0f3d9b9ebfc1b55421-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/f7b667edceac1fd3e0d9fdab96c80838-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/5ace6e40444129c020341d51acdce482-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/7664962ee34eb2d2de53125acd7471b0-p_c.jpg"
+        ],
+        "saved_images": [
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_001.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_002.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_003.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_004.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_005.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_006.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_007.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_008.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_009.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_010.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_011.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_012.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_013.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_014.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\915_N_Ransom_St_Gastonia_NC_28052_zillow_015.jpg"
+        ],
+        "scraped_at": "2025-11-20 02:43:20",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 02:46:07"
+      }
+    }
+  },
+  "realtor|915 n ransom st, gastonia, nc 28052": {
+    "timestamp": 1763577793.4420834,
+    "result": {
+      "subject_property": {
+        "address": "915 N Ransom St, Gastonia, NC 28052",
+        "url": "https://www.realtor.com/realestateandhomes-search/915+N+Ransom+St%2C+Gastonia%2C+NC+28052",
+        "source_site": "realtor",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-20 02:46:11",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 02:46:11"
+      }
+    }
+  },
+  "redfin|915 n ransom st, gastonia, nc 28052": {
+    "timestamp": 1763577793.4420834,
+    "result": {
+      "subject_property": {
+        "address": "915 N Ransom St, Gastonia, NC 28052",
+        "url": "https://www.redfin.com/stingray/do/location-autocomplete?location=915+N+Ransom+St%2C+Gastonia%2C+NC+28052",
+        "source_site": "redfin",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-20 02:46:13",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 02:46:13"
+      }
+    }
+  },
+  "zillow|161 lincoln st, holyoke, ma 1040": {
+    "timestamp": 1763604049.8090465,
+    "result": {
+      "subject_property": {
+        "address": "161 Lincoln St, Holyoke, MA 1040",
+        "url": "https://www.zillow.com/homedetails/161-Lincoln-St-Holyoke-MA-01040/56176756_zpid/",
+        "source_site": "zillow",
+        "price": 240900.0,
+        "bedrooms": 5,
+        "bathrooms": 1.0,
+        "square_footage": 2491,
+        "lot_size": null,
+        "year_built": 1880,
+        "property_type": "More",
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": 96.71,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [
+          "https://photos.zillowstatic.com/fp/32d9f2216bd9bf782020a2ead07e5036-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/94eadcb5b4ea9a73cf34a6014f5681e1-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/5a0b96a50c726fbb9a13f3dd46f8180f-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/6629521cccb2d07fbb6134475eefecce-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/f2b57595d4f6197192517952e32563fa-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/32c75deee3ae426350c0ed6277a30d34-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/0e805a34e447b0857dc9213c6b2c36a3-p_c.jpg",
+          "https://photos.zillowstatic.com/fp/f4546d8b56b40ab5dc4eac45787c14e8-p_c.jpg",
+          "https://www.zillowstatic.com/bedrock/app/uploads/sites/55/2025/08/HomeDollar.webp",
+          "https://www.zillowstatic.com/bedrock/app/uploads/sites/55/2025/08/Zillow-Home-Loans_Horizontal_NMLS_Large_Blue_RGB-300x33-1.webp"
+        ],
+        "saved_images": [
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_001.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_002.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_003.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_004.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_005.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_006.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_007.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_008.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_009.jpg",
+          "C:\\xampp\\htdocs\\AutoCalc\\images\\161_Lincoln_St_Holyoke_MA_1040_zillow_010.jpg"
+        ],
+        "scraped_at": "2025-11-20 10:01:00",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 10:02:48"
+      }
+    }
+  },
+  "realtor|161 lincoln st, holyoke, ma 1040": {
+    "timestamp": 1763604049.8090465,
+    "result": {
+      "subject_property": {
+        "address": "161 Lincoln St, Holyoke, MA 1040",
+        "url": "https://www.realtor.com/realestateandhomes-search/161+Lincoln+St%2C+Holyoke%2C+MA+1040",
+        "source_site": "realtor",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-20 10:02:53",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 10:02:53"
+      }
+    }
+  },
+  "redfin|161 lincoln st, holyoke, ma 1040": {
+    "timestamp": 1763604049.8090465,
+    "result": {
+      "subject_property": {
+        "address": "161 Lincoln St, Holyoke, MA 1040",
+        "url": "https://www.redfin.com/stingray/do/location-autocomplete?location=161+Lincoln+St%2C+Holyoke%2C+MA+1040",
+        "source_site": "redfin",
+        "price": null,
+        "bedrooms": null,
+        "bathrooms": null,
+        "square_footage": null,
+        "lot_size": null,
+        "year_built": null,
+        "property_type": null,
+        "monthly_hoa": null,
+        "annual_taxes": null,
+        "price_per_sqft": null,
+        "listing_status": null,
+        "days_on_market": null,
+        "listing_agent": null,
+        "listing_agent_phone": null,
+        "owner_name": null,
+        "latitude": null,
+        "longitude": null,
+        "description": null,
+        "image_urls": [],
+        "saved_images": [],
+        "scraped_at": "2025-11-20 10:02:56",
+        "direction_from_subject": null,
+        "distance_from_subject_meters": null
+      },
+      "metadata": {
+        "scraped_at": "2025-11-20 10:02:56"
+      }
+    }
+  }
+}
